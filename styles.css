@@ -1,0 +1,15 @@
+.counter {
+    text-align: right;
+}
+body {
+background-color: lightblue;
+color: red;
+}
+    
+.pokemon {
+ height: 130px;
+ width: 450px;}
+.who {
+height: 200px;
+width: 450px;
+}
